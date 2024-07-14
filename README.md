@@ -37,14 +37,14 @@ The purpose of this project is to provide tools for assembling assembly code and
 
 ## Usage
 1.Assembler
- To assemble an assembly code file, use the following command:
-  g++ assembler.cpp
- The output will be the corresponding machine code, saved to an output file.
+ - To assemble an assembly code file, use the following command:
+     g++ assembler.cpp
+ - The output will be the corresponding machine code, saved to an output file.
 
 2.Branch Predictor
- To run the branch predictor on a set of branch instructions, use the following command:
- g++ branch-prediction.cpp
- You can specify different prediction strategies and evaluate their performance.
+  - To run the branch predictor on a set of branch instructions, use the following command:
+     g++ branch-prediction.cpp
+  - You can specify different prediction strategies and evaluate their performance.
 
 ## Contact
  - Name: Prathistha Pandey
