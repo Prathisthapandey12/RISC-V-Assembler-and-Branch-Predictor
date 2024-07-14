@@ -15,20 +15,26 @@ The purpose of this project is to provide tools for assembling assembly code and
 
 ## Features
 
+
 1.RISC-V Assembler
--Supports a wide range of assembly instructions.
--Generates machine code for a specific target architecture.
+ - Supports a wide range of assembly instructions.
+ - Generates machine code for a specific target architecture.
+
 
 2.Branch Predictor
--Implements common prediction algorithms (e.g. two-bit branch-prediction, one-bit, always-taken, always-nottaken).
--Evaluates prediction accuracy and performance.
--Configurable for different branch prediction strategies.
+ - Implements common prediction algorithms (e.g. two-bit branch-prediction, one-bit, always-taken, always-nottaken).
+ - Evaluates prediction accuracy and performance.
+ - Configurable for different branch prediction strategies.
 
 ## Installation
--To get started with the project, clone the repository and install the necessary dependencies:
+- To get started with the project, clone the repository and install the necessary dependencies:
+
 1.git clone https://github.com/Prathisthapandey12/RISC-V-Assembler-and-Branch-Predictor.git
+
 2.cd RISC-V-Assembler-and-Branch-Predictor
+
 3.Ensure you have C++ installed, and then install the required packages:
+
 
 ## Usage
 Assembler
