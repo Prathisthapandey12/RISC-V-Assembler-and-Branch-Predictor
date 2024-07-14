@@ -3,11 +3,12 @@
 Welcome to the Assembler and Branch Predictor repository. This project contains an assembler for converting assembly language code into machine code and a branch predictor for optimizing CPU performance by predicting the direction of branch instructions.
 
 ## Table of Contents
-Introduction
-Features
-Installation
-Usage
-Contact
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contact](#contact)
+
 
 ## Introduction
 The purpose of this project is to provide tools for assembling assembly code and predicting branch outcomes to enhance CPU performance. The assembler translates human-readable assembly language into machine code that can be executed by a processor. The branch predictor improves the execution speed of programs by guessing the outcome of branch instructions, reducing the number of CPU pipeline stalls.
