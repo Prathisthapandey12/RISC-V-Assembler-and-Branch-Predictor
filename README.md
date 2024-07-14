@@ -27,7 +27,6 @@ The purpose of this project is to provide tools for assembling assembly code and
  - Configurable for different branch prediction strategies.
 
 ## Installation
-- To get started with the project, clone the repository and install the necessary dependencies:
 
 1.git clone https://github.com/Prathisthapandey12/RISC-V-Assembler-and-Branch-Predictor.git
 
@@ -37,16 +36,16 @@ The purpose of this project is to provide tools for assembling assembly code and
 
 
 ## Usage
-Assembler
-To assemble an assembly code file, use the following command:
-g++ assembler.cpp
-The output will be the corresponding machine code, saved to an output file.
+1.Assembler
+ To assemble an assembly code file, use the following command:
+  g++ assembler.cpp
+ The output will be the corresponding machine code, saved to an output file.
 
-Branch Predictor
-To run the branch predictor on a set of branch instructions, use the following command:
-g++ branch-prediction.cpp
-You can specify different prediction strategies and evaluate their performance.
+2.Branch Predictor
+ To run the branch predictor on a set of branch instructions, use the following command:
+ g++ branch-prediction.cpp
+ You can specify different prediction strategies and evaluate their performance.
 
 ## Contact
-Name: Prathistha Pandey
-Github: Prathisthapandey12
+ - Name: Prathistha Pandey
+ - Github: Prathisthapandey12
