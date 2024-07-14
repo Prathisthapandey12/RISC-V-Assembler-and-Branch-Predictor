@@ -14,20 +14,21 @@ Welcome to the Assembler and Branch Predictor repository. This project contains 
 The purpose of this project is to provide tools for assembling assembly code and predicting branch outcomes to enhance CPU performance. The assembler translates human-readable assembly language into machine code that can be executed by a processor. The branch predictor improves the execution speed of programs by guessing the outcome of branch instructions, reducing the number of CPU pipeline stalls.
 
 ## Features
-RISC-V Assembler
-Supports a wide range of assembly instructions.
-Generates machine code for a specific target architecture.
 
-Branch Predictor
-Implements common prediction algorithms (e.g. two-bit branch-prediction, one-bit, always-taken, always-nottaken).
-Evaluates prediction accuracy and performance.
-Configurable for different branch prediction strategies.
+1.RISC-V Assembler
+-Supports a wide range of assembly instructions.
+-Generates machine code for a specific target architecture.
+
+2.Branch Predictor
+-Implements common prediction algorithms (e.g. two-bit branch-prediction, one-bit, always-taken, always-nottaken).
+-Evaluates prediction accuracy and performance.
+-Configurable for different branch prediction strategies.
 
 ## Installation
-To get started with the project, clone the repository and install the necessary dependencies:
-git clone https://github.com/Prathisthapandey12/RISC-V-Assembler-and-Branch-Predictor.git
-cd RISC-V-Assembler-and-Branch-Predictor
-Ensure you have C++ installed, and then install the required packages:
+-To get started with the project, clone the repository and install the necessary dependencies:
+1.git clone https://github.com/Prathisthapandey12/RISC-V-Assembler-and-Branch-Predictor.git
+2.cd RISC-V-Assembler-and-Branch-Predictor
+3.Ensure you have C++ installed, and then install the required packages:
 
 ## Usage
 Assembler
